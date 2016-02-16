@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chapter14_WebView_Exercise</string>
+    <string name="Button">Go to http://www.google.com</string>
+</resources>
